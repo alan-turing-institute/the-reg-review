@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+html {
+    font-family: "Fira Sans", sans-serif;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #dfd2f7;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
