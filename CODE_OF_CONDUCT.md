@@ -21,7 +21,7 @@ If you'd like to use or contribute to issue templates that encourage this layout
 
 ## Use of AI Tools
 
-AI tools are welcome, but you are responsible for any code you commit. Never commit code you don't understand. If you use AI-generated code, ensure its correctness and be prepared to explain exactly what it does to others. You do not have to disclose if code was written by AI, but it may be useful for collaborators if AI was heavily used in your PR.
+AI tools are welcome, but you are responsible for any code you commit. Never commit code you don't understand. If you use AI-generated code, ensure its correctness and be prepared to explain exactly what it does to others. You do not have to disclose if code was written by AI, but making it clear where and how you used AI may be useful for collaborators if AI was heavily used in your PR.
 
 ## For PR Submitters
 
